@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.sem-head{
+    column-span: "7";
+    background-color: #4D83B2;
+    font-weight: bold;
+    color: #fff;
+}
+
+.header{
+    background-color: #4D83B2;
+    font-weight: bold;
+    color: #fff;
+}
+
+.details{
+    background-color: #9F8260;
+    color: aliceblue;
+}
+
