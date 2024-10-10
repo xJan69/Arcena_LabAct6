@@ -1,5 +1,5 @@
 {
-    "semesters": [
+    "Semesters": [
         {"id": 1, "description": "First Year, First Semester"},
         {"id": 2, "description": "First Year, Second Semester"},
         {"id": 3, "description": "Second Year, First Semester"},
@@ -9,7 +9,7 @@
         {"id": 7, "description": "Fourth Year, First Semester"},
         {"id": 8, "description": "Fourth Year, Second Semester"}
     ],
-    "courses": [
+    "Courses": [
         {
             "course": "NSTP",
             "description": "Civic Welfare Training Service 1",
